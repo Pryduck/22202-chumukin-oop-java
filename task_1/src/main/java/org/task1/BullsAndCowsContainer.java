@@ -1,7 +1,7 @@
 package org.task1;
 
 public class BullsAndCowsContainer {
-    private final int bulls, cows;
+    private int bulls, cows;
 
     public BullsAndCowsContainer(int bulls, int cows) {
         this.cows = cows;
